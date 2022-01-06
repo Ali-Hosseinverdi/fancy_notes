@@ -20,3 +20,6 @@ pip3 install -r requirements.txt
 ```
 python3 main.py
 ```
+
+# Contribue
+Feel free to contribute in this project and help to making better this program.
