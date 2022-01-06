@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>blue.png</file>
+    <file>calender.png</file>
+    <file>location.png</file>
+    <file>back.png</file>
+    <file>background3.jpg</file>
+    <file>edit.png</file>
+    <file>clock.png</file>
+    <file>read.png</file>
+    <file>new.png</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
