@@ -676,9 +676,27 @@ class Ui_Dialog(object):
 
     def open_note(self, data):
         try:
-            self.file_attached.close()
+            self.file_scroll.close()
         except AttributeError:
             pass
+
+        self.file_scroll = QScrollArea(Dialog)
+        self.file_scroll.setObjectName("file_scroll")
+        self.file_scroll.setGeometry(QRect(280, 440, 461, 61))
+        self.file_scroll.setStyleSheet("background-image: url();\n"
+                                       "background-color: rgb(255, 255, 255);\n"
+                                       "border:rgb(255,255,255);")
+        self.file_scroll.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.file_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+        self.file_scroll.setWidgetResizable(True)
+        self.scrollAreaWidgetContents_2 = QWidget()
+        self.scrollAreaWidgetContents_2.setObjectName("scrollAreaWidgetContents_2")
+        self.scrollAreaWidgetContents_2.setGeometry(QRect(0, 0, 461, 61))
+        self.horizontalLayout = QHBoxLayout(self.scrollAreaWidgetContents_2)
+        self.horizontalLayout.setObjectName("horizontalLayout")
+
+        self.file_scroll.setWidget(self.scrollAreaWidgetContents_2)
+        self.file_scroll.show()
 
         self.time_l.setGeometry(QRect(255, 70, 401, 20))
 
