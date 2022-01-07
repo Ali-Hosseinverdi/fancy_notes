@@ -13,7 +13,7 @@ notes and also you can attach your files to notes. You can edit your notes very 
 # Installation
 This program supposed to run in linux and may have some bugs on windows or any other operating systems that aren't unix based. I'm woking on it for runing nice in window.
 
-At first you should install <a href="https://opensource.com/article/20/4/install-python-linux">python3</a> if you hadn't before(it's installed by default in many linux systems) And also you should install <a href="https://pip.pypa.io/en/stable/installation/">pip</a>. Then run this commands in your terminal to complete the installation.
+At first you should install <a href="https://opensource.com/article/20/4/install-python-linux">python3</a> if you haven't before(it's installed by default in many linux systems) And also you should install <a href="https://pip.pypa.io/en/stable/installation/">pip</a>. Then run this commands in your terminal to complete the installation.
 
 ```
 git clone https://github.com/Ali-Hosseinverdi/notes.git
