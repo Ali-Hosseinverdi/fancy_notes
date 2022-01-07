@@ -29,3 +29,5 @@ python3 main.py
 
 # Contribue
 You can contribute in this open-source project and help to making better this program and also you can make me happy with your stars if you liked the **Fancy Notes**.
+
+[![Stargazers repo roster for @Ali-Hosseinverdi/fancy_notes](https://reporoster.com/stars/Ali-Hosseinverdi/fancy_notes)](https://github.com/Ali-Hosseinverdi/fancy_notes/stargazers)
