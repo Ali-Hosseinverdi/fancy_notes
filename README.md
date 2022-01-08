@@ -16,8 +16,8 @@ This program supposed to run in linux and may have some bugs on windows or any o
 At first you should install <a href="https://opensource.com/article/20/4/install-python-linux">python3</a> if you haven't before(it's installed by default in many linux systems) And also you should install <a href="https://pip.pypa.io/en/stable/installation/">pip</a>. Then run this commands in your terminal to complete the installation.
 
 ```
-git clone https://github.com/Ali-Hosseinverdi/notes.git
-cd notes
+git clone https://github.com/Ali-Hosseinverdi/fancy_notes.git
+cd fancy_notes
 pip3 install -r requirements.txt
 ```
 
