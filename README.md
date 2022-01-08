@@ -28,8 +28,8 @@ python3 main.py
 ```
 
 <div style="text-align: center">
-    <a href="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/app.gif">
-    <img src="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/app.gif"/></a>
+    <a href="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/fancy_notes.gif.gif">
+    <img src="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/fancy_notes.gif.gif"/></a>
 </div>
 
 # Contribue
