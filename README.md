@@ -27,6 +27,11 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
+<div style="text-align: center">
+    <a href="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/app.gif">
+    <img src="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/app.gif"/></a>
+</div>
+
 # Contribue
 You can contribute in this open-source project and help to making better this program and also you can make me happy with your stars if you liked the **Fancy Notes**.
 
