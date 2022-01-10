@@ -19,18 +19,32 @@ At first you should install <a href="https://opensource.com/article/20/4/install
 git clone https://github.com/Ali-Hosseinverdi/fancy_notes.git
 cd fancy_notes
 pip3 install -r requirements.txt
+chmod +x install
+sudo ./install
 ```
 
 # Run
 
+Run this command in your terminal:
+
 ```
-python3 main.py
+fnotes
 ```
+
+or you can also run the program from your applications menu.
 
 <div style="text-align: center">
     <a href="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/fancy_notes.gif">
     <img src="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/fancy_notes.gif"/></a>
 </div>
+
+# Unistallation!!!
+
+If you wanna unistall this program you can run this command in the cloned directory:
+
+```
+./unistall
+```
 
 # Contribue
 You can contribute in this open-source project and help to making better this program and also you can make me happy with your stars if you liked the **Fancy Notes**.
