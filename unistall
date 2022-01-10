@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo rm -r /usr/share/fnotes/
+sudo rm /usr/bin/fnotes
+sudo rm /usr/share/applications/fnotes.desktop

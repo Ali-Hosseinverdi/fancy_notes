@@ -1,0 +1,21 @@
+#!/bin/bash
+
+chmod +x fnotes
+cp fnotes /usr/bin/
+mkdir /usr/share/fnotes
+cp -r images notes.txt logs.txt fnotes /usr/share/fnotes
+touch /usr/share/applications/fnotes.desktop
+OUTPUT=$(users | cut -d' ' -f1)
+chown -R "${OUTPUT}" /usr/share/fnotes
+echo "[Desktop Entry]
+Version=1.0
+Name=fnotes
+Comment=A simple,fast and fantasy note-taking program
+Exec=/usr/bin/fnotes
+Icon=/usr/share/fnotes/images/icon.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Accessories;
+X-Desktop-File-Install-Version=0.15" > /usr/share/applications/fnotes.desktop
+echo "installed!"
