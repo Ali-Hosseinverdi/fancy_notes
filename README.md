@@ -26,7 +26,7 @@ sudo ./install
 ## Windows
 
 1. Download the rar file from this <a href="https://github.com/Ali-Hosseinverdi/fancy_notes/releases/download/v1.0.0/fancy_notes_exe_v1.0.0.rar">link</a>.
-2. Extract the file with Winerar or any other app you have.
+2. Extract the file with Winrar or any other app you have.
 3. Find the **fnotes.exe** file in the extracted folder and Right-click on the file name, and then click **Send To > Desktop (Create shortcut)**.(This step is just to make it easier to use and not necessary)
  
 # Run
