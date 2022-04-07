@@ -56,7 +56,7 @@ If you wanna unistall this program you can run this command in the cloned direct
 ./unistall
 ```
 
-# Contribue
+# Contribute
 You can contribute in this open-source project and help to making better this program and also you can make me happy with your stars if you liked the **Fancy Notes**.
 
 [![Stargazers repo roster for @Ali-Hosseinverdi/fancy_notes](https://reporoster.com/stars/dark/Ali-Hosseinverdi/fancy_notes)](https://github.com/Ali-Hosseinverdi/fancy_notes/stargazers)
