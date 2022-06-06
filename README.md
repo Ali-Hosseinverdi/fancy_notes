@@ -48,7 +48,7 @@ Just double click on the program shortcut in the desktop or in the extracted fol
     <img src="https://github.com/Ali-Hosseinverdi/notes/blob/main/screenshots/fancy_notes.gif"/></a>
 </div>
 
-# Unistallation!!!
+# Uninstallation!!!
 
 If you wanna unistall this program you can run this command in the cloned directory:
 
